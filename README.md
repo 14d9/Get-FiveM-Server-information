@@ -8,10 +8,9 @@ Created By : Ali
 - requests
 - webbrowser
 - time
-- DiscordWebhook
 
 
-![program pic](https://github.com/14d9/Get-FiveM-Server-information/blob/master/img/Get-FiveM-Server-information.png)
+![program pic](https://github.com/14d9/Get-FiveM-Server-information/blob/master/img/Get-FiveM-Server-information(Ali).png)
 
 
        
